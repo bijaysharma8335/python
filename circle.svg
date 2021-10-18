@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="768pt" height="768pt" viewBox="0 0 768 768" version="1.1">
+<g id="surface1">
+<rect x="0" y="0" width="768" height="768" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,0%,0%);fill-opacity:1;" d="M 384 384 L 512 384 C 512 454.691406 454.691406 512 384 512 C 313.308594 512 256 454.691406 256 384 C 256 313.308594 313.308594 256 384 256 C 454.691406 256 512 313.308594 512 384 "/>
+</g>
+</svg>

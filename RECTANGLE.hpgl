@@ -1,0 +1,14 @@
+IN;SP1;
+SP1
+SI0.42,0.35
+DI;DT*,1;
+PU0.0,10.0;
+LB  Name : RECTANGLE Width : 10 Length: 10*;
+LO15;
+PU;
+PU0,0;
+PD10.0,0;
+PD10.0,10.0;
+PD0,10.0;
+PD0,0;
+PU;
